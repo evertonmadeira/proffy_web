@@ -1,11 +1,13 @@
 ![logo](https://user-images.githubusercontent.com/42476488/92246737-8f050080-ee9c-11ea-94a1-1946e8cc4ef8.png)
-![main](https://user-images.githubusercontent.com/42476488/92247139-29fdda80-ee9d-11ea-919d-aa628617f987.png)
-![giveclass](https://user-images.githubusercontent.com/42476488/92247141-2a967100-ee9d-11ea-9599-9bac05663a03.png)
-![tostudy](https://user-images.githubusercontent.com/42476488/92247142-2b2f0780-ee9d-11ea-831c-05ea2170cf11.png)
 
 Segunda parte de um total de três do projeto Proffy, esta plataforma possui o objetivo de conectar pessoas que estão interessadas em aprender ou ensinar qualquer matéria.
 
 Este repositório consiste na interface web do projeto.
+
+### :camera: Screenshots
+![main](https://user-images.githubusercontent.com/42476488/92247139-29fdda80-ee9d-11ea-919d-aa628617f987.png)
+![giveclass](https://user-images.githubusercontent.com/42476488/92247141-2a967100-ee9d-11ea-9599-9bac05663a03.png)
+![tostudy](https://user-images.githubusercontent.com/42476488/92247142-2b2f0780-ee9d-11ea-831c-05ea2170cf11.png)
 
 ### :pushpin: Tópicos
    [Repositórios relacionados](#repositorios-relacionados)
